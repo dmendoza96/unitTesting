@@ -1,0 +1,14 @@
+{
+  "name": "unitestingtask",
+  "version": "0.0.1",
+  "description": "Unit testing task",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "timezone-mock": "^1.3.6"
+  }
+}
